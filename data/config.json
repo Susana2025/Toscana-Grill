@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "businessName": "Toscana Grill",
+  "whatsappNumber": "593984005280",
+  "timezone": "America/Guayaquil",
+  "disposableFeePerItem": 0.5,
+  "deliveryFee": 2.0,
+  "maxQuantityPerItem": 20,
+  "rateLimitSeconds": 30,
+  "businessHours": {
+    "monday": {
+      "enabled": true,
+      "opens": "17:00",
+      "closes": "22:00"
+    },
+    "tuesday": {
+      "enabled": true,
+      "opens": "17:00",
+      "closes": "22:00"
+    },
+    "wednesday": {
+      "enabled": true,
+      "opens": "17:00",
+      "closes": "22:00"
+    },
+    "thursday": {
+      "enabled": true,
+      "opens": "17:00",
+      "closes": "22:00"
+    },
+    "friday": {
+      "enabled": true,
+      "opens": "17:00",
+      "closes": "22:00"
+    },
+    "saturday": {
+      "enabled": true,
+      "opens": "17:00",
+      "closes": "22:00"
+    },
+    "sunday": {
+      "enabled": false,
+      "opens": "17:00",
+      "closes": "22:00"
+    }
+  }
+}

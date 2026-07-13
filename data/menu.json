@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "products": [
+    {
+      "id": 1,
+      "category": "Asados al barril",
+      "name": "Panceta crocante al barril",
+      "price": 5.5,
+      "description": "Panceta crocante al barril, acompañada de papas fritas y guacamole.",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "category": "Asados al barril",
+      "name": "Parrillada andina al barril",
+      "price": 5.5,
+      "description": "Lomo de cerdo, presa de pollo, chorizo parrillero, choclo, papas salteadas, ensalada, chimichurri y ají de la casa.",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "category": "Asados al barril",
+      "name": "Lomo de res al barril",
+      "price": 4.75,
+      "description": "Lomo ahumado de res al barril, acompañado de arroz moro, patacones y menestra.",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "category": "Asados al barril",
+      "name": "Costillas de cerdo ahumadas en salsa BBQ",
+      "price": 5.0,
+      "description": "Costillas de cerdo ahumadas en salsa BBQ, acompañadas de papas rústicas sazonadas, ensalada y limonada.",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "category": "Asados al barril",
+      "name": "Pollo colorado al barril",
+      "price": 5.5,
+      "description": "¼ de pollo colorado al barril con papas salteadas, ensalada y salsa de la casa.",
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "category": "Asados al barril",
+      "name": "Bandeja familiar Toscana",
+      "price": 24.0,
+      "description": "4 filetes de pollo, 4 chuletas de cerdo, 6 chorizos, patacones para 4 personas, 4 arroces moro, 4 menestras, ensalada, chimichurri y salsas.",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "category": "Asados al barril",
+      "name": "Cuy al barril",
+      "price": 22.0,
+      "description": "Cuy grande entero, papas criollas con salsa de maní, mote y ensalada. Porciones para 4 personas.",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "category": "Choripanes",
+      "name": "Choripán clásico argentino",
+      "price": 3.5,
+      "description": "Chorizo al barril, pan baguette tostado, chimichurri casero, salsa criolla, cebolla caramelizada y papas fritas.",
+      "enabled": true
+    },
+    {
+      "id": 9,
+      "category": "Choripanes",
+      "name": "Choripán mexicano",
+      "price": 3.75,
+      "description": "Chorizo al barril, pan baguette tostado, guacamole, salsa criolla picante, cebolla caramelizada y papas fritas.",
+      "enabled": true
+    },
+    {
+      "id": 10,
+      "category": "Choripanes",
+      "name": "Choripán italiano Toscana",
+      "price": 3.75,
+      "description": "Chorizo al barril, pan baguette tostado, queso mozzarella, salsa especial de tomate con albahaca y orégano, y papas fritas.",
+      "enabled": true
+    },
+    {
+      "id": 11,
+      "category": "Especiales",
+      "name": "Llapingacho barrilero",
+      "price": 4.75,
+      "description": "Llapingacho con carne de cerdo desmechada al barril, chorizo, huevo, aguacate y ají.",
+      "enabled": true
+    },
+    {
+      "id": 12,
+      "category": "Especiales",
+      "name": "Fritada de la casa",
+      "price": 5.0,
+      "description": "Fritada con mote, maduros, papas criollas, tostado, encurtido y ají.",
+      "enabled": true
+    },
+    {
+      "id": 13,
+      "category": "Especiales",
+      "name": "Hornado",
+      "price": 5.25,
+      "description": "Hornado con mote, tortilla de papa, ensalada, cuero crocante y ají.",
+      "enabled": true
+    },
+    {
+      "id": 14,
+      "category": "Caldos",
+      "name": "Caldo de pata",
+      "price": 3.5,
+      "description": "Caldo tradicional de pata.",
+      "enabled": true
+    },
+    {
+      "id": 15,
+      "category": "Adicionales",
+      "name": "Arroz moro con queso mozzarella",
+      "price": 2.5,
+      "description": "Porción adicional.",
+      "enabled": true
+    },
+    {
+      "id": 16,
+      "category": "Adicionales",
+      "name": "Arroz blanco",
+      "price": 1.5,
+      "description": "Porción adicional.",
+      "enabled": true
+    },
+    {
+      "id": 17,
+      "category": "Adicionales",
+      "name": "Porción de papas",
+      "price": 1.5,
+      "description": "Porción adicional.",
+      "enabled": true
+    },
+    {
+      "id": 18,
+      "category": "Adicionales",
+      "name": "Porción de ensalada",
+      "price": 1.25,
+      "description": "Porción adicional.",
+      "enabled": true
+    },
+    {
+      "id": 19,
+      "category": "Adicionales",
+      "name": "Menestra",
+      "price": 1.5,
+      "description": "Porción adicional.",
+      "enabled": true
+    },
+    {
+      "id": 20,
+      "category": "Adicionales",
+      "name": "Chorizo",
+      "price": 0.6,
+      "description": "Unidad adicional.",
+      "enabled": true
+    },
+    {
+      "id": 21,
+      "category": "Adicionales",
+      "name": "Plato de patacones",
+      "price": 1.75,
+      "description": "Porción adicional.",
+      "enabled": true
+    },
+    {
+      "id": 22,
+      "category": "Limonadas",
+      "name": "Limonada clásica - vaso",
+      "price": 1.0,
+      "description": "Vaso individual.",
+      "enabled": true
+    },
+    {
+      "id": 23,
+      "category": "Limonadas",
+      "name": "Limonada clásica - jarra",
+      "price": 3.5,
+      "description": "Jarra para compartir.",
+      "enabled": true
+    },
+    {
+      "id": 24,
+      "category": "Limonadas",
+      "name": "Limonada de fresa - vaso",
+      "price": 1.5,
+      "description": "Vaso individual.",
+      "enabled": true
+    },
+    {
+      "id": 25,
+      "category": "Limonadas",
+      "name": "Limonada de fresa - jarra",
+      "price": 4.5,
+      "description": "Jarra para compartir.",
+      "enabled": true
+    },
+    {
+      "id": 26,
+      "category": "Limonadas",
+      "name": "Limonada de coco - vaso",
+      "price": 1.75,
+      "description": "Vaso individual.",
+      "enabled": true
+    },
+    {
+      "id": 27,
+      "category": "Limonadas",
+      "name": "Limonada de coco - jarra",
+      "price": 5.0,
+      "description": "Jarra para compartir.",
+      "enabled": true
+    },
+    {
+      "id": 28,
+      "category": "Jugos naturales",
+      "name": "Jugo de mora - vaso",
+      "price": 1.5,
+      "description": "Vaso individual.",
+      "enabled": true
+    },
+    {
+      "id": 29,
+      "category": "Jugos naturales",
+      "name": "Jugo de mora - jarra",
+      "price": 4.5,
+      "description": "Jarra para compartir.",
+      "enabled": true
+    },
+    {
+      "id": 30,
+      "category": "Jugos naturales",
+      "name": "Jugo de naranjilla - vaso",
+      "price": 1.5,
+      "description": "Vaso individual.",
+      "enabled": true
+    },
+    {
+      "id": 31,
+      "category": "Jugos naturales",
+      "name": "Jugo de naranjilla - jarra",
+      "price": 4.5,
+      "description": "Jarra para compartir.",
+      "enabled": true
+    },
+    {
+      "id": 32,
+      "category": "Jugos naturales",
+      "name": "Jugo de coco - vaso",
+      "price": 1.75,
+      "description": "Vaso individual.",
+      "enabled": true
+    },
+    {
+      "id": 33,
+      "category": "Jugos naturales",
+      "name": "Jugo de coco - jarra",
+      "price": 5.0,
+      "description": "Jarra para compartir.",
+      "enabled": true
+    },
+    {
+      "id": 34,
+      "category": "Bebidas",
+      "name": "Gaseosa personal",
+      "price": 1.0,
+      "description": "Presentación personal.",
+      "enabled": true
+    },
+    {
+      "id": 35,
+      "category": "Bebidas",
+      "name": "Gaseosa 1 litro",
+      "price": 2.75,
+      "description": "Botella de 1 litro.",
+      "enabled": true
+    },
+    {
+      "id": 36,
+      "category": "Bebidas",
+      "name": "Botella de agua",
+      "price": 0.75,
+      "description": "Agua embotellada.",
+      "enabled": true
+    },
+    {
+      "id": 37,
+      "category": "Bebidas",
+      "name": "Cerveza personal",
+      "price": 1.5,
+      "description": "Presentación personal.",
+      "enabled": true
+    }
+  ]
+}
