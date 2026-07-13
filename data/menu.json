@@ -30,8 +30,8 @@
       "id": 4,
       "category": "Asados al barril",
       "name": "Costillas de cerdo ahumadas en salsa BBQ",
-      "price": 5.0,
-      "description": "Costillas de cerdo ahumadas en salsa BBQ, acompañadas de papas rústicas sazonadas, ensalada y limonada.",
+      "price": 6.5,
+      "description": "Costillas de cerdo ahumadas en salsa BBQ, acompañadas de papas rústicas sazonadas y ensalada.",
       "enabled": true
     },
     {
@@ -295,6 +295,14 @@
       "category": "Bebidas",
       "name": "Cerveza personal",
       "price": 1.5,
+      "description": "Presentación personal.",
+      "enabled": true
+    },
+    {
+      "id": 38,
+      "category": "Bebidas",
+      "name": "Michelada",
+      "price": 5.5,
       "description": "Presentación personal.",
       "enabled": true
     }
