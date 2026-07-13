@@ -300,10 +300,10 @@
     },
     {
       "id": 38,
-      "category": "Bebidas",
-      "name": "Michelada",
-      "price": 5.5,
-      "description": "Presentación personal.",
+      "category": "Promociones",
+      "name": "Choripan 2x1",
+      "price": 6.0,
+      "description": "Presentación para compartir.",
       "enabled": true
     }
   ]
