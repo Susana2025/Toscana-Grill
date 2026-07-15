@@ -1,7 +1,7 @@
 "use strict";
 
 const TOSCANA_SUPABASE_CONFIG = Object.freeze({
-  url: "https://kqxpxmzjtxukszjmwbxv.supabase.co",
+  url: "https://kxqpxmzjtxukszjwmbxv.supabase.co",
   publishableKey: "sb_publishable_X-BblX3Y2hCxsIecbHbwAw_ns1Ksjq6"
 });
 
