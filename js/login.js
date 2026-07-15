@@ -10,6 +10,26 @@ async function inicializarLogin() {
   const message = document.getElementById("login-message");
   const togglePassword = document.getElementById("toggle-password");
 
+  if (!window.toscanaSupabase) {
+    console.error(
+      "window.toscanaSupabase no está disponible."
+    );
+
+    if (message) {
+      mostrarMensaje(
+        message,
+        "No se pudo iniciar la conexión con el servidor.",
+        "error"
+      );
+    }
+
+    if (submitButton) {
+      submitButton.disabled = true;
+    }
+
+    return;
+  }
+
   if (
     !form ||
     !emailInput ||
@@ -18,7 +38,9 @@ async function inicializarLogin() {
     !message ||
     !togglePassword
   ) {
-    console.error("La estructura del formulario está incompleta.");
+    console.error(
+      "La estructura del formulario está incompleta."
+    );
     return;
   }
 
